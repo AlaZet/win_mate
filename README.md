@@ -1,6 +1,6 @@
 # win_mate
 
-Application made during the Python Guild
+Application made during the Python Guild.
 
 The main function of this application is to check https://www.trojmiasto.pl/ and it's Competition section. The application should continuously check if there will be a competition in the nearest future (about 2 hours) and if yes, send an email notification to users who left their email address and requested such service. 
 
